@@ -1,9 +1,9 @@
 
 # simple_arm
-A mini-project to better explain pub-sub architecture in ROS
+A mini-project to apply pub-sub architecture in ROS
 
 ### How to Launch the simulation?
-Once all the required ROS packages are installed, and that this package is in your ROS workspace (assumed ot be `~/catkin_ws`.
+Once all the required ROS packages are installed, and that this package should be in the ROS workspace (assumed ot be `~/catkin_ws`.
 
 ```sh
 $ cd ~/catkin_ws
