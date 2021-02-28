@@ -61,3 +61,5 @@ $ wget http://packages.osrfoundation.org/gazebo.key -O - | sudo apt-key add -
 $ sudo apt-get update
 $ sudo apt-get install gazebo7
 ```
+## Reference 
+[ROS/catkin workspace](http://wiki.ros.org/catkin/Tutorials/create_a_workspace)
